@@ -96,7 +96,24 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+### dataset:
+![op 1](https://github.com/Jothilakshmi12/Ex-1-NN/assets/138849182/0b8e1cf7-85e7-4a2d-8fd2-486a57bec769)
+### Finding Missing Values:
+![op 2](https://github.com/Jothilakshmi12/Ex-1-NN/assets/138849182/8868a048-2dec-4fee-a350-168b053837e2)
+### Handling Missing values:
+![op 3](https://github.com/Jothilakshmi12/Ex-1-NN/assets/138849182/99ccfa53-d072-4ba9-a27f-99b213716927)
+### Duplicates:
+![op 4](https://github.com/Jothilakshmi12/Ex-1-NN/assets/138849182/6c0f56e8-1c3d-4213-87db-6f89bce9ff5b)
+### Normalize the dataset:
+![op 5](https://github.com/Jothilakshmi12/Ex-1-NN/assets/138849182/205e185b-6b2b-4841-8f7f-a31f88a4e52b)
+### split the dataset into input and output:
+![op 6](https://github.com/Jothilakshmi12/Ex-1-NN/assets/138849182/578c756d-b28d-4e87-8cd6-420e7c8b38a0)
+### splitting the data for training & Testing:
+![op 7](https://github.com/Jothilakshmi12/Ex-1-NN/assets/138849182/99078f5a-a974-4892-aa8e-60122a1e7993)
+
+
+
+
 
 
 ## RESULT:
